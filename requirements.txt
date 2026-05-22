@@ -1,0 +1,6 @@
+numpy
+pandas
+playwright>=1.41.0
+playwright-stealth
+beautifulsoup4
+python-dotenv
